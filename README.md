@@ -6,7 +6,7 @@
 <img width="80"src="https://img.shields.io/twitter/follow/chipro?label=Follow&style=social">
 </a>
 <a style="text-decoration: none" target="_blank" href="https://www.linkedin.com/in/kdn-daniel/" >
-<img width="90"src="https://img.shields.io/badge/-Connect-green?style=flat&logo=Linkedin&logoColor=white">
+<img width="70"src="https://img.shields.io/badge/-Connect-green?style=flat&logo=Linkedin&logoColor=white">
 </a>
 
 <a style="text-decoration: none" target="_blank" href="mailto:contact@danieldiaz.dev?subject=Hi%Daniel!" >
