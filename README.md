@@ -45,7 +45,7 @@ With a strong foundation in backend development and process automation, I have h
         <strong>UAO</strong><br>Industrial Engineer<br>
         <svg width="200" height="30">
   <rect width="100%" height="20" fill="lightgray" />
-  <rect width="80%" height="20" fill="green">
+  <rect width="100%" height="20" fill="green">
     <animate attributeName="width" from="0%" to="80%" dur="2s" fill="freeze" />
   </rect>
   <text x="100" y="15" fill="white" font-size="12" text-anchor="middle">80%</text>
