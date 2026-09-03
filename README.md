@@ -99,7 +99,7 @@ With a strong foundation in backend development and process automation, I have h
     </td>
     <td align="center">
       <a href="https://github.com/kdn-daniel">
-        <img align="center" alt="Most used languages" src="./assets/github-langs.svg"/>
+        <img align="center" alt="Most used languages" src="./assets/github-languages.svg"/>
       </a>
     </td>
   </tr>
