@@ -92,7 +92,7 @@ With a strong foundation in backend development and process automation, I have h
   <tr>
     <td align="center">
       <a href="https://github.com/kdn-daniel">
-        <img height="180em" alt="GitHub stats" src="./assets/github-stats.svg"/>
+        <img height="180em" alt="GitHub stats" src="./assets/github-overview.svg"/>
       </a>
     </td>
     <td align="center">
