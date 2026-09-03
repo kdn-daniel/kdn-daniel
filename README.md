@@ -94,12 +94,12 @@ With a strong foundation in backend development and process automation, I have h
   <tr>
     <td align="center">
       <a href="https://github.com/kdn-daniel">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kdn-daniel&show_icons=true&theme=vue&include_all_commits=true&count_private=true"/>
+        <img height="180em" alt="GitHub stats" src="./assets/github-stats.svg"/>
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/kdn-daniel">
-        <img align="center" src="https://api.githubtrends.io/user/svg/kdn-daniel/langs?theme=ferns&time_range=all_time&include_private=true&compact=true" />
+        <img align="center" alt="Most used languages" src="./assets/github-langs.svg"/>
       </a>
     </td>
   </tr>
