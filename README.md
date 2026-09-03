@@ -59,7 +59,7 @@ With a strong foundation in backend development and process automation, I have h
   <table>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Backend:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=python,js,nodejs,java,net,opencv,php,laravel,c"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=java,spring,js,nodejs,ts,kotlin,cs,go"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Frontend:</td>
@@ -79,7 +79,7 @@ With a strong foundation in backend development and process automation, I have h
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Other Tools:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=selenium,vscode,gmail,notion,ps,rocket,tensorflow"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=selenium,vscode,idea,postman,gmail,notion,ps"/></td>
     </tr>
   </table>
 </div>

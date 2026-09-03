@@ -5,6 +5,11 @@
   </style>
   <rect x="0.5" y="0.5" width="359" height="231" rx="4.5" fill="#fffefe" stroke="#e4e2e2"/>
   <text x="25" y="32" class="title">Most Used Languages</text>
-  <rect x="25.00" y="50" width="124.04" height="10" fill="#3572A5"/><rect x="149.04" y="50" width="91.34" height="10" fill="#f1e05a"/><rect x="240.38" y="50" width="46.81" height="10" fill="#c6538c"/><rect x="287.19" y="50" width="37.55" height="10" fill="#e34c26"/><rect x="324.74" y="50" width="5.27" height="10" fill="#563d7c"/><rect x="330.01" y="50" width="4.99" height="10" fill="#3178c6"/>
-  <circle cx="25" cy="78" r="5" fill="#3572A5"/><text x="37" y="82" class="lang">Python 40.0%</text><circle cx="185" cy="78" r="5" fill="#f1e05a"/><text x="197" y="82" class="lang">JavaScript 29.5%</text><circle cx="25" cy="106" r="5" fill="#c6538c"/><text x="37" y="110" class="lang">SCSS 15.1%</text><circle cx="185" cy="106" r="5" fill="#e34c26"/><text x="197" y="110" class="lang">HTML 12.1%</text><circle cx="25" cy="134" r="5" fill="#563d7c"/><text x="37" y="138" class="lang">CSS 1.7%</text><circle cx="185" cy="134" r="5" fill="#3178c6"/><text x="197" y="138" class="lang">TypeScript 1.6%</text>
+  <rect x="25.00" y="50" width="117.80" height="10" fill="#b07219"/><rect x="142.80" y="50" width="68.20" height="10" fill="#3178c6"/><rect x="211.00" y="50" width="55.80" height="10" fill="#f1e05a"/><rect x="266.80" y="50" width="31.00" height="10" fill="#A97BFF"/><rect x="297.80" y="50" width="21.70" height="10" fill="#00ADD8"/><rect x="319.50" y="50" width="15.50" height="10" fill="#178600"/>
+  <circle cx="25" cy="78" r="5" fill="#b07219"/><text x="37" y="82" class="lang">Java 38.0%</text>
+  <circle cx="185" cy="78" r="5" fill="#3178c6"/><text x="197" y="82" class="lang">TypeScript 22.0%</text>
+  <circle cx="25" cy="106" r="5" fill="#f1e05a"/><text x="37" y="110" class="lang">JavaScript 18.0%</text>
+  <circle cx="185" cy="106" r="5" fill="#A97BFF"/><text x="197" y="110" class="lang">Kotlin 10.0%</text>
+  <circle cx="25" cy="134" r="5" fill="#00ADD8"/><text x="37" y="138" class="lang">Go 7.0%</text>
+  <circle cx="185" cy="134" r="5" fill="#178600"/><text x="197" y="138" class="lang">C# 5.0%</text>
 </svg>
