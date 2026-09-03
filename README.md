@@ -39,9 +39,7 @@ With a strong foundation in backend development and process automation, I have h
   <table style="margin-left: auto; margin-right: auto;">
     <tr>
       <td align="center">
-        <img src="https://thumbs4.imagebam.com/7d/3e/66/MESRJTA_t.png" height="40" alt="1.png"/>
-        <img src="https://thumbs4.imagebam.com/51/24/42/MEVTD0I_t.png" width="90" alt="UAO.png"/><br>
-        <img src="https://thumbs4.imagebam.com/d7/6e/91/MESRJ8U_t.png" height="20" alt="Ec.png"/><br>
+        <img src="./assets/uao-logo.png" width="140" alt="Universidad Autónoma de Occidente"/><br>
         <strong>UAO</strong><br>Industrial Engineer<br>
         <svg width="200" height="30">
   <rect width="100%" height="20" fill="lightgray" />
