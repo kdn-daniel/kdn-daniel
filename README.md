@@ -9,7 +9,7 @@
 <img width="70"src="https://img.shields.io/badge/-Connect-green?style=flat&logo=Linkedin&logoColor=white">
 </a>
 
-<a style="text-decoration: none" target="_blank" href="mailto:contact@danieldiaz.dev?subject=Hi%Daniel!" >
+<a style="text-decoration: none" target="_blank" href="mailto:contacto@danieldiaz.dev?subject=Hi%Daniel!" >
 <img width="80" alt="Email" src="https://img.shields.io/static/v1?style=for-the-badge&message=Gmail&color=green&logo=gmail&logoColor=FFFFFF&label=" />
 </a>
 
